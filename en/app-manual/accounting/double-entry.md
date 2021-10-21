@@ -90,6 +90,5 @@ To set the opening balance, create a new entry from **Double-Entry > Journal Ent
 
 1. If the opening balance account (first) is an **asset** (i.e. accounts receivable, bank, credit card), enter the amount as a **debit**.
 
-2. If the opening balance account (first) is a **liability** (i.e. accounts payable), enter the amount as a **credit**.
 
 ![double-entry opening balance](_images/double-entry-opening-starting-balance.gif)
